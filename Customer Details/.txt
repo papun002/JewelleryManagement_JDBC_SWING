@@ -1,0 +1,12 @@
+Customer Name :
+Address :
+Mobile No. :
+Date :
+Bill No. :
+Product Type :
+Karats: 
+Product Name: , Weight: 
+Describition :
+1gm :, Making: ,  Discount :
+GST 3% :,Total :
+Grand Total :
